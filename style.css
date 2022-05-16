@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Playfair+Display:ital,wght@0,500;1,500&display=swap');
+.desktop
+{
+    background-color: hsl(212, 45%, 89%);
+}
+.qrcode{
+    background-color: hsl(0, 0%, 100%);
+    width: 290px;
+    height: 450px;
+    box-sizing: border-box;
+    padding: 15px;
+    margin: 20vh auto 0 auto;
+    border-radius: 15px;
+}
+.qrcode img{
+   width: 260px;
+   height: 260px;
+    border-radius: 10px;
+}
+.banner{
+    font-family: Outfit;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+}
+.banner2{
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+    padding: 30px;
+}
+.attribution a { 
+      color: hsl(228, 45%, 44%); 
+}
