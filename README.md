@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-The areas I want to continue focusing on in future projects iclude:
+The areas I want to continue focusing on in future projects include:
 - Dealing with the styling of my margins and padding
 - Refining my code lines too.
 
